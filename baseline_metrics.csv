@@ -1,0 +1,5 @@
+Run Name,Precision,Recall,mAP@50,mAP@50-95,Time (hrs)
+baseline_yolo11n.pt,0.96597,0.93318,0.98013,0.82563,N/A
+baseline_yolov8n.pt-2,0.94785,0.92462,0.95364,0.82648,N/A
+baseline_yolov8n.pt-7,0.9732,0.94082,0.98645,0.84046,N/A
+baseline_yolov8n.pt-8,0.9732,0.94082,0.98645,0.84046,N/A

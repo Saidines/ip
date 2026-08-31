@@ -1,0 +1,35 @@
+# Python virtual environment
+yolo_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# YOLO training outputs
+runs/
+weights/
+
+# Dataset
+vehicle_dataset/
+
+# YOLO model weights
+*.pt
+*.pth
+*.onnx
+
+# Backup files
+_rf_original_backup/
+
+# Python / tooling cache
+.pytest_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
